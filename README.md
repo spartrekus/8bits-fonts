@@ -1,5 +1,5 @@
 # 8bits-fonts
-8bits fonts from first early machines (amiga,...)
+Some fonts from first early machines (dell glass, amiga,...)
 
 
 ![](https://raw.githubusercontent.com/spartrekus/8bits-fonts/master/fonts.png)
